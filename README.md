@@ -76,8 +76,9 @@ A full-stack social networking application built using Flutter and Node.js.
 - Responsive UI
 
 **GitHub:** https://github.com/aryanshandilya19/social-media-app
+**Live:** https://taupe-marshmallow-3ccc17.netlify.app
 
- **Live Demo:** https://taupe-marshmallow-3ccc17.netlify.app
+ 
 ---
 
 ### GitHub Stats
