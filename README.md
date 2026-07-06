@@ -25,22 +25,75 @@ Computer Science undergrad (B.Tech, 2023–2027) at CTAE, Udaipur, building full
 
 ---
 
-### Featured Project
+## Featured Projects
 
-**[PlacementHub](https://github.com/aryanshandilya19/placementhub)** — production-grade MERN app to track and manage college placement preparation and statistics. React + Vite + Zustand on the frontend, Node/Express + MongoDB Atlas on the backend, JWT auth with refresh token rotation, deployed on Vercel & Render.
-Live: https://placementhub-two.vercel.app
+### PlacementHub
+Production-ready MERN application for managing college placement preparation and analytics.
 
+**Tech Stack**
+- React + Vite
+- Zustand
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT Authentication
+- Render + Vercel Deployment
+
+**Features**
+- Student Authentication
+- Company Management
+- Placement Statistics Dashboard
+- Resume Tracking
+- Admin Dashboard
+- Protected APIs
+- Refresh Token Authentication
+
+ **GitHub:** https://github.com/aryanshandilya19/placementhub
+
+ **Live:** https://placementhub-two.vercel.app
+
+---
+
+###  Social Media Platform
+
+A full-stack social networking application built using Flutter and Node.js.
+
+**Tech Stack**
+- Flutter
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT Authentication
+
+**Features**
+- Login & Signup
+- Create Posts
+- Like & Comment
+- Follow/Unfollow Users
+- User Profiles
+- Feed System
+- Image Upload
+- Responsive UI
+
+**GitHub:** https://github.com/aryanshandilya19/social-media-app
+
+ **Live Demo:** *(Add your deployed link if available)*
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanshandilya19&show_icons=true&theme=default&hide_border=true" alt="Aryan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshandilya19&layout=compact&hide_border=true" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanshandilya19&show_icons=true&theme=github_dark&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshandilya19&layout=compact&theme=github_dark"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanshandilya19&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshandilya19&theme=github-dark"/>
+
 </p>
 ---
 
