@@ -40,13 +40,8 @@ Live: https://placementhub-two.vercel.app
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshandilya19&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aryanshandilya19&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanshandilya19&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### Connect
